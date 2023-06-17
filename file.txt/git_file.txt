@@ -1,1 +1,3 @@
-visual studio is IDE tool
+visual studio is IDE tool.
+git is very good tool
+
